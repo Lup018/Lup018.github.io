@@ -1,0 +1,28 @@
+body {
+    font-family: 'Slabo 27px', serif;
+}
+
+main {
+    text-align: center;
+    padding-top: 5%;
+}
+
+main h3 {
+    padding-top: 2%; 
+}
+
+main p {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.image-me {
+    width: 15%;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.portafolio {
+    color: black;
+    margin-top: 5%;
+}
