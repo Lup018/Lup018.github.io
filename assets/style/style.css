@@ -2,16 +2,16 @@ body {
     font-family: 'Slabo 27px', serif;
 }
 
-main {
+header {
     text-align: center;
     padding-top: 5%;
 }
 
-main h3 {
+header h3 {
     padding-top: 2%; 
 }
 
-main p {
+header p {
     padding-left: 25%;
     padding-right: 25%;
 }
